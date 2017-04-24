@@ -2,7 +2,7 @@ const http = require('http');
 
 const server = http.createServer((req, res) => {
   res.writeHead(200, { 'Content-Type': 'text/plain' });
-  console.log('requested path:', req.url)
+  console.log('requested path:', req.url);
   res.write('Hello World!');
   res.end();
 });

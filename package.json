@@ -1,23 +1,21 @@
 {
-  "name": "minimal-node-http-server",
+  "name": "simple-node-webservice",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "dependencies": {
-    "express": "^4.15.2"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sakkuru/minimal-node-http-server.git"
+    "url": "git+https://github.com/sakkuru/simple-node-webservice"
   },
   "author": "sakkuru",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sakkuru/minimal-node-http-server/issues"
+    "url": "https://github.com/sakkuru/simple-node-webservice/issues"
   },
-  "homepage": "https://github.com/sakkuru/minimal-node-http-server#readme"
+  "homepage": "https://github.com/sakkuru/simple-node-webservice#readme"
 }
